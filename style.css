@@ -1,0 +1,14 @@
+div {
+  background-image: url('images/artworks-nP1GkfCFExNdDOPp-2FQOxQ-t500x500.jpg');
+  height: 700px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 50%;
+  background-position: center;
+}
+
+p {
+  text-align: right;
+  color: yellow;
+
+}
